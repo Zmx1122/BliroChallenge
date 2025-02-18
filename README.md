@@ -31,12 +31,15 @@ The provided OpenAI API Key is stored in this file.
 #### evaluation_criteria.py:
 The file stores the selected assessment criteria: the **information compression ratio**, the [**METEOR score**](https://medium.com/@abdullahiolaoye4/evaluating-generative-summarization-techniques-075ea7e0785d) and the **entity coverage**.
 #### summary_generator.py:
-This file defines functions related to the openAI Client, as well as the processing of local transcripts and the storage of generated summaries.
+This file defines functions related to the openAI Client with specific LLM *"gpt-3.5-turbo"*, as well as the processing of local transcripts and the storage of generated summaries.
 #### test.py:
 This document uses transcripts from the local repository to test the performance of the original prompt and the suggested improved prompt. The results are evaluated using the selected evaluation metrics and are also visualised.
 
 ## Subtask 3: Analysis and Reporting
 ### Report:
+#### Textual Summary of Evaluation
+[Textual Summary](https://github.com/Zmx1122/BliroChallenge/blob/main/evaluation_results.txt)
+#### Visualization of Evaluation
 ![Visualized Evaluation](https://github.com/Zmx1122/BliroChallenge/blob/main/evaluation_comparison.png)
 
 *Range of all metrics: [0,1], higher value means better.*
