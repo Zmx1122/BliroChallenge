@@ -1,0 +1,220 @@
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\01.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.27388535031847133
+length_ratio_improved: 0.15127388535031847
+meteor_original: 0.15893456741671028
+meteor_improved: 0.08488109176075004
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.75
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\02.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.18361153262518967
+length_ratio_improved: 0.12291350531107739
+meteor_original: 0.09450594844679443
+meteor_improved: 0.058817934050847724
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.6666666666666666
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\03.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.23979591836734693
+length_ratio_improved: 0.19047619047619047
+meteor_original: 0.13782204041186374
+meteor_improved: 0.11233654083395014
+entity_coverage_original: 0.1111111111111111
+entity_coverage_improved: 0.6666666666666666
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\04.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.38073394495412843
+length_ratio_improved: 0.20871559633027523
+meteor_original: 0.17107833666880815
+meteor_improved: 0.10951632491368876
+entity_coverage_original: 0.1111111111111111
+entity_coverage_improved: 0.2222222222222222
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\05.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.27258566978193144
+length_ratio_improved: 0.17133956386292834
+meteor_original: 0.13831117009179192
+meteor_improved: 0.09243512806155993
+entity_coverage_original: 0.16666666666666666
+entity_coverage_improved: 0.3333333333333333
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\06.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.20562130177514792
+length_ratio_improved: 0.14497041420118342
+meteor_original: 0.1255444280537597
+meteor_improved: 0.07772885472224537
+entity_coverage_original: 0.18181818181818182
+entity_coverage_improved: 0.6363636363636364
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\07.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.34102141680395387
+length_ratio_improved: 0.14497528830313014
+meteor_original: 0.17842313071272897
+meteor_improved: 0.06961576261129165
+entity_coverage_original: 0.09090909090909091
+entity_coverage_improved: 0.45454545454545453
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\08.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.1858267716535433
+length_ratio_improved: 0.1732283464566929
+meteor_original: 0.09944744692259593
+meteor_improved: 0.09129241308998699
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.4117647058823529
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\09.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.1337579617834395
+length_ratio_improved: 0.2611464968152866
+meteor_original: 0.07094629166563508
+meteor_improved: 0.130369396132811
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.6666666666666666
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\10.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.3279742765273312
+length_ratio_improved: 0.18488745980707397
+meteor_original: 0.18944490574978518
+meteor_improved: 0.08023684411588049
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.6666666666666666
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\11.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.0996309963099631
+length_ratio_improved: 0.09317343173431734
+meteor_original: 0.05906376243966514
+meteor_improved: 0.053003586622262934
+entity_coverage_original: 0.08333333333333333
+entity_coverage_improved: 0.4166666666666667
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\12.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.19822109275730623
+length_ratio_improved: 0.17153748411689962
+meteor_original: 0.1251478843617072
+meteor_improved: 0.1084985535928937
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.375
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\13.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.2982689747003995
+length_ratio_improved: 0.16910785619174434
+meteor_original: 0.16141429804410223
+meteor_improved: 0.09417076929354805
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.5
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\14.txt:
+transcript_language: de
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.28957528957528955
+length_ratio_improved: 0.22136422136422138
+meteor_original: 0.015239678581324467
+meteor_improved: 0.013130778960223308
+entity_coverage_original: 0.06666666666666667
+entity_coverage_improved: 0.08
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\15.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.2621359223300971
+length_ratio_improved: 0.1966019417475728
+meteor_original: 0.13401297848817412
+meteor_improved: 0.08927682508858034
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.625
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\16.txt:
+transcript_language: de
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.31685393258426964
+length_ratio_improved: 0.1662921348314607
+meteor_original: 0.008441871683550409
+meteor_improved: 0.006128953174797744
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.10204081632653061
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\17.txt:
+transcript_language: de
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.3286467486818981
+length_ratio_improved: 0.2601054481546573
+meteor_original: 0.012245666917859836
+meteor_improved: 0.012336306699563485
+entity_coverage_original: 0.013157894736842105
+entity_coverage_improved: 0.06578947368421052
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\18.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.18040435458786935
+length_ratio_improved: 0.17262830482115085
+meteor_original: 0.09740359263600327
+meteor_improved: 0.08232835741844677
+entity_coverage_original: 0.0
+entity_coverage_improved: 0.6
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\19.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.22777777777777777
+length_ratio_improved: 0.1925925925925926
+meteor_original: 0.11429816845443282
+meteor_improved: 0.12545792767237324
+entity_coverage_original: 0.125
+entity_coverage_improved: 0.125
+
+Results for C:\Users\zhang\Documents\BliroInterview\Project\transcripts\20.txt:
+transcript_language: en
+original_summary_language: en
+improved_summary_language: en
+length_ratio_original: 0.18783542039355994
+length_ratio_improved: 0.2003577817531306
+meteor_original: 0.1190134976798499
+meteor_improved: 0.08905152634649034
+entity_coverage_original: 0.08333333333333333
+entity_coverage_improved: 0.75
+
