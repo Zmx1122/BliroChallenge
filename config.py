@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 18 14:56:28 2025
-
-@author: zhang
-"""
-
 # config.py
 # Store OpenAI API Key
 
