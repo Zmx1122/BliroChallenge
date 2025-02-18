@@ -37,7 +37,7 @@ This document uses transcripts from the local repository to test the performance
 
 ## Subtask 3: Analysis and Reporting
 ### Report:
-![Visualized Evaluation]https://github.com/Zmx1122/BliroChallenge/blob/main/evaluation_comparison.png
+![Visualized Evaluation](https://github.com/Zmx1122/BliroChallenge/blob/main/evaluation_comparison.png)
 *Range of all metrics: [0,1], higher value means better.*
 #### METEOR:
 The mean and mode of the METEOR scores for the original prompt are slightly higher than those for the improved prompt, while the standard deviation is significantly larger.  Considering that the METEOR metric is often applied to the generation of summaries based on written texts, where the textual characteristics of the input differ from those of dialogue transcripts, it is believed that this metric cannot significantly evaluate the effect of prompt engineering on performance improvement. However, since the value gap is very small, it can at least be argued that **the improved prompt does not have a significant negative impact on the Mean Average Precision for Summarization**.
